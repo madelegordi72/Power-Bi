@@ -18,5 +18,5 @@ Main Frame
 
 Ref 1 : Team Diagram 
 
-<img src =
+<img src = "main_gui.png" alt ="Team Diagram" width ="1000"/>
 

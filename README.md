@@ -20,3 +20,8 @@ Ref 1 : Team Diagram
 
 <img src = "main_gui.png" alt ="Team Diagram" width ="1000"/>
 
+Lap Data 
+Ref 2: Compartive Results 
+
+<img src = "stats_gui.png" alt ="Compartive Results" width ="1000"/>
+

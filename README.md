@@ -8,7 +8,7 @@ The transofrmation project aimed to establish how public data can be transported
 
 - Excel 
 - PowerBi 
-- Site extraction
+- Site extraction.<sup id="fn1_ref"><a href="#fn1">1</a></sup>
 
 ## Steps 
  ### Main Frame 
@@ -26,4 +26,8 @@ The transofrmation project aimed to establish how public data can be transported
 
 **My Insight:** We can see being in a Team is different than placing first. This is a team effort as it is analytic timing with every opponent. 
 --
+Footnotes
+
+<sup id="fn1">1 Mazda MX-5 Cup , 2025 Chamionship Latest Results,” https://www.mx-5cup.com/results/2025-championship </sup>  
+
 

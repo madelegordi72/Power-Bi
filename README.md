@@ -11,12 +11,12 @@ The transofrmation project aimed to establish how public data can be transported
 - Site extraction
 
 ## Steps 
-Main Frame 
+ ### Main Frame 
 Ref 1 : Team Diagram 
 
 <img src = "main_gui.png" alt ="Team Diagram" width ="1000"/>
 
-Lap Data 
+### Lap Data 
 Ref 2: Compartive Results 
 
 <img src = "stats_gui.png" alt ="Compartive Results" width ="1000"/>

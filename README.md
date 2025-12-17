@@ -11,9 +11,7 @@ The transofrmation project aimed to establish how public data can be transported
 - Site extraction
 
 ## Steps 
-
 Main Frame 
-
 Ref 1 : Team Diagram 
 
 <img src = "main_gui.png" alt ="Team Diagram" width ="1000"/>
